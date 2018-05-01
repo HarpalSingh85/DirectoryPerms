@@ -1,0 +1,6 @@
+C:\Users\hps01\Documents\70-483\FILEIO\FolderPermission\FolderPermission\bin\Debug\FolderPermission.exe.config
+C:\Users\hps01\Documents\70-483\FILEIO\FolderPermission\FolderPermission\bin\Debug\FolderPermission.exe
+C:\Users\hps01\Documents\70-483\FILEIO\FolderPermission\FolderPermission\bin\Debug\FolderPermission.pdb
+C:\Users\hps01\Documents\70-483\FILEIO\FolderPermission\FolderPermission\obj\Debug\FolderPermission.csprojResolveAssemblyReference.cache
+C:\Users\hps01\Documents\70-483\FILEIO\FolderPermission\FolderPermission\obj\Debug\FolderPermission.exe
+C:\Users\hps01\Documents\70-483\FILEIO\FolderPermission\FolderPermission\obj\Debug\FolderPermission.pdb
